@@ -13,6 +13,10 @@ Please PM me on discord "nottsurt." before using my mods.**
 ‎
 <br><br>
 
+Downloads:\
+Client 1.20.1: https://www.mediafire.com/file/zf9noomqk5tawe1/TheLostWorlds-V1.0.0-client.zip/file \
+Server 1.20.1: https://www.mediafire.com/file/hkot7xls32bfnkc/TheLostWorlds-1.0.0-server.zip/file 
+
 This is in early beta stages. Changelog and Updates are below.
 ‎
 <br><br>
