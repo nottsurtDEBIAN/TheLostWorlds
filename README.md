@@ -2,7 +2,7 @@
 
 **The Lost Worlds by Nottsurt**
 
-The Lost Worlds is a upcoming modpack designed for low end PCs.
+The Lost Worlds is a upcoming modpack designed for low end PCs.\
 The modpack center is a horror/action/survival vibe.
 <br><br>
 
