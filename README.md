@@ -8,7 +8,8 @@ The modpack center is a horror/action/survival vibe.
 
 ‎
 ***Notice: Most of these mods are not mine, i am not claiming to own them.\
-The mods I do own are stylized like this: "ModName.TLW.jar".**
+The mods I do own are stylized like this: "ModName.TLW-versionnumber.jar".\
+Please PM me on discord "nottsurt." before using my mods.**
 ‎
 <br><br>
 
@@ -27,4 +28,4 @@ MOD LIST:
 (blank)
 
 CHANGELOGS:
-(blank)
+1. Update BETA zip 
